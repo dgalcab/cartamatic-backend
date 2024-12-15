@@ -1,0 +1,39 @@
+# Laravel-specific
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+.phpunit.cache
+
+# Node.js / Frontend
+/node_modules
+/frontend/dist
+/npm-debug.log
+/yarn-error.log
+
+# IDEs y herramientas
+/.idea
+/.vscode
+/.fleet
+.DS_Store
+.cache
+thumbs.db
+
+# Despliegue
+/deploy.sh
+
+# Cypress (pruebas end-to-end)
+/cypress/screenshots
+/cypress/videos
+/cypress/reports
+
+# Otros archivos temporales
+Homestead.json
+Homestead.yaml
+auth.json
+README.md.bak

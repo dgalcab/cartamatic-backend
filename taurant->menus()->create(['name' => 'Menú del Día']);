@@ -1,0 +1,9 @@
+[90m= [39m[34;4mApp\Models\Restaurant[39;24m {#5156
+    [34mname[39m: "[32mEl Restaurante[39m",
+    [34maddress[39m: "[32mCalle 123[39m",
+    [34mphone[39m: "[32m123456789[39m",
+    [34mupdated_at[39m: "[32m2024-09-21 09:40:05[39m",
+    [34mcreated_at[39m: "[32m2024-09-21 09:40:05[39m",
+    [34mid[39m: [35m1[39m,
+  }
+
